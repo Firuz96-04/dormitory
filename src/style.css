@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.q-pa-md {
+  padding: 0;
+}
+
+.my_class{
+  border-radius: none;
+  background-color: rgb(117, 207, 210);
+
+}
+
+.table_action_icon {
+  cursor: pointer
+}
